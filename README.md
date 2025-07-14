@@ -1,2 +1,1 @@
-# sweih-cavreلبيع الكفارات 
-Sweih
+# sweih-cavre
